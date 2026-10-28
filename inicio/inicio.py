@@ -22,5 +22,4 @@ class InicioScreen(MDScreen):
     def ir_a_registro(self):
         self.manager.current = "registro"
 
-    def ir_a_programadores(self):
-        self.manager.current = "programadores"
+
